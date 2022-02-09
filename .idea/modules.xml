@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KidsPlay&amp;Learning_source.iml" filepath="$PROJECT_DIR$/.idea/modules/KidsPlay&amp;Learning_source.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KidsPlay&amp;Learning_source.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KidsPlay&amp;Learning_source.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kidsplay.iml" filepath="$PROJECT_DIR$/.idea/modules/kidsplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kidsplay.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kidsplay.app.iml" />
     </modules>
   </component>
 </project>
